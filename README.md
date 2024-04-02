@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Windows11 LTSC 终于来了！](https://1900.live/windows-11-ltsc-is-finally-here/)
+- [Windows11 LTSC 网友自制](https://1900.live/windows-11-ltsc-is-finally-here/)
 - [我也跑个半程马拉松：赛前体检](https://1900.live/im-running-a-half-marathon-too-pre-race-medical-checkups/)
 - [新主题11ty-book](https://1900.live/new-theme-11ty-book/)
 - [6，春分](https://1900.live/6-chun-fen/)
