@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [我也跑个半程马拉松：领物资](https://1900.live/i-also-run-a-half-marathon-get-supplies/)
-- [MPA网站使用Chrome原生过度动画](https://1900.live/mpa-website-uses-native-chrome-over-animation/)
+- [MPA网站使用Chrome原生过渡动画](https://1900.live/mpa-website-uses-native-chrome-over-animation/)
 - [网友自制 Windows11 LTSC](https://1900.live/netflix-windows-11-ltsc/)
 - [我也跑个半程马拉松：赛前体检](https://1900.live/im-running-a-half-marathon-too-pre-race-medical-checkups/)
 - [新主题11ty-book](https://1900.live/new-theme-11ty-book/)
