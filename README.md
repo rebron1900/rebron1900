@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows11 LTSC 终于来了！](https://1900.live/windows-11-ltsc-is-finally-here/)
 - [我也跑个半程马拉松：赛前体检](https://1900.live/im-running-a-half-marathon-too-pre-race-medical-checkups/)
 - [新主题11ty-book](https://1900.live/new-theme-11ty-book/)
 - [6，春分](https://1900.live/6-chun-fen/)
 - [每年的 40 个问题 - 2023](https://1900.live/mei-nian-de-40-ge-wen-ti-2023/)
-- [5，惊蛰](https://1900.live/5-hibernation/)
 <!-- BLOG-POST-LIST:END -->
