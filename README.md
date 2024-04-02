@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MPA网站使用Chrome原生过度动画](https://1900.live/mpa-website-uses-native-chrome-over-animation/)
 - [网友自制 Windows11 LTSC](https://1900.live/netflix-windows-11-ltsc/)
 - [我也跑个半程马拉松：赛前体检](https://1900.live/im-running-a-half-marathon-too-pre-race-medical-checkups/)
 - [新主题11ty-book](https://1900.live/new-theme-11ty-book/)
 - [6，春分](https://1900.live/6-chun-fen/)
-- [每年的 40 个问题 - 2023](https://1900.live/mei-nian-de-40-ge-wen-ti-2023/)
 <!-- BLOG-POST-LIST:END -->
