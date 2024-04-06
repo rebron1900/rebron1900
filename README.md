@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [内江甜城一日游](https://1900.live/day-trip-to-neijiang-sweet-city/)
 - [7，清明](https://1900.live/7-qing-ming/)
 - [我也跑个半程马拉松：领物资](https://1900.live/i-also-run-a-half-marathon-get-supplies/)
 - [MPA网站使用Chrome原生过渡动画](https://1900.live/mpa-website-uses-native-chrome-over-animation/)
 - [网友自制 Windows11 LTSC](https://1900.live/netflix-windows-11-ltsc/)
-- [我也跑个半程马拉松：赛前体检](https://1900.live/im-running-a-half-marathon-too-pre-race-medical-checkups/)
 <!-- BLOG-POST-LIST:END -->
