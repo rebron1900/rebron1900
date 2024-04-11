@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [雾，是地球的迷梦](https://1900.live/chen-wu-shi-da-zi-ran-de-mi-meng/)
 - [我也跑个半程马拉松：完赛](https://1900.live/i-also-run-a-half-marathon-finish-the-race/)
 - [纯CSS解决网页因滚动条抖动问题](https://1900.live/solve-webpage-scrollbar-jitter-issue-with-pure-css/)
 - [内江甜城一日游](https://1900.live/day-trip-to-neijiang-sweet-city/)
 - [7，清明](https://1900.live/7-qing-ming/)
-- [我也跑个半程马拉松：领物资](https://1900.live/i-also-run-a-half-marathon-get-supplies/)
 <!-- BLOG-POST-LIST:END -->
