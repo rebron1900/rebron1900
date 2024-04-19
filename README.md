@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8，谷雨](https://1900.live/8-gu-yu/)
 - [静湖计划](https://1900.live/jing-hu-ji-hua/)
 - [用Alpinejs完成主题切换功能](https://1900.live/yong-alpinejswan-cheng-zhu-ti-qie-huan-gong-neng/)
 - [Ghost使用11ty时生成无插件生成TOC目录](https://1900.live/ghostshi-yong-11tyshi-sheng-cheng-tocmu-lu/)
 - [关于友情链接和SSG在博客中展示Flux订阅](https://1900.live/ssgzai-bo-ke-zhong-zhan-shi-fluxding-yue/)
-- [雾，是地球的迷梦](https://1900.live/chen-wu-shi-da-zi-ran-de-mi-meng/)
 <!-- BLOG-POST-LIST:END -->
