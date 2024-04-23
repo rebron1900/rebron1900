@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [联通话费降费指南](https://1900.live/lian-tong-hua-fei-jiang-fei-bai-che-zhi-nan/)
+- [keyguard：一个好用的Bitwarden第三方安卓客户端](https://1900.live/yi-ge-hao-yong-de-bitwardendi-san-fang-an-zhuo-ke-hu-duan/)
 - [喜大普奔：百分浏览器终于更新了！](https://1900.live/xi-da-pu-ben-bai-fen-liu-lan-qi-zhong-yu-geng-xin-liao/)
 - [8，谷雨](https://1900.live/8-gu-yu/)
 - [静湖计划](https://1900.live/jing-hu-ji-hua/)
-- [用Alpinejs完成主题切换功能](https://1900.live/yong-alpinejswan-cheng-zhu-ti-qie-huan-gong-neng/)
-- [Ghost使用11ty时生成无插件生成TOC目录](https://1900.live/ghostshi-yong-11tyshi-sheng-cheng-tocmu-lu/)
 <!-- BLOG-POST-LIST:END -->
