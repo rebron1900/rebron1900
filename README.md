@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [五一我也成都游一趟把！](https://1900.live/wo-ye-cheng-du-you-yi-tang-ba/)
 - [博客名称改为 1900&#39;Blog](https://1900.live/bo-ke-ming-cheng-gai-wei-1900blog/)
 - [OpenGraph图自动生成](https://1900.live/automatic-generation-of-opengraph-diagrams/)
 - [博客更新热力图](https://1900.live/bo-ke-geng-xin-re-li-tu/)
 - [联通话费降费指南](https://1900.live/lian-tong-hua-fei-jiang-fei-bai-che-zhi-nan/)
-- [keyguard：一个好用的Bitwarden第三方安卓客户端](https://1900.live/yi-ge-hao-yong-de-bitwardendi-san-fang-an-zhuo-ke-hu-duan/)
 <!-- BLOG-POST-LIST:END -->
