@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤣JUSTFUN周刊：第二期](https://1900.live/justfunzhou-kan-di-er-qi/)
 - [用workflow转换Google地图kmz数据为geojson数据](https://1900.live/yong-wordkflowzhuan-huan-googlewo-de-di-tu-kmzshu-ju-wei-geojsonshu-ju/)
-- [🤣JUSTFUN周刊第一期](https://1900.live/justfunzhou-kan-di-yi-qi/)
+- [🤣JUSTFUN周刊：第一期](https://1900.live/justfunzhou-kan-di-yi-qi/)
 - [服务器重装设置指南](https://1900.live/fu-wu-qi-zhong-zhuang-she-zhi-zhi-nan/)
 - [10，小满](https://1900.live/10-xiao-man/)
-- [文章点赞和浏览数统计实现](https://1900.live/wen-zhang-dian-zan-he-liu-lan-shu-tong-ji/)
 <!-- BLOG-POST-LIST:END -->
