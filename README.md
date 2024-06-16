@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤣JUSTFUN周刊：第四期](https://1900.live/justfunzhou-kan-di-si-qi/)
 - [🤣JUSTFUN周刊：第三期](https://1900.live/justfunzhou-kan-di-san-qi/)
 - [11，芒种](https://1900.live/11-mang-chong/)
 - [🤣JUSTFUN周刊：第二期](https://1900.live/justfunzhou-kan-di-er-qi/)
 - [用workflow转换Google地图kmz数据为geojson数据](https://1900.live/yong-wordkflowzhuan-huan-googlewo-de-di-tu-kmzshu-ju-wei-geojsonshu-ju/)
-- [🤣JUSTFUN周刊：第一期](https://1900.live/justfunzhou-kan-di-yi-qi/)
 <!-- BLOG-POST-LIST:END -->
