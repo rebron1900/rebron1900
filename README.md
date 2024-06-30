@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤣JUSTFUN周刊：第六期](https://1900.live/justfunzhou-kan-di-liu-qi/)
 - [🤣JUSTFUN周刊：第五期](https://1900.live/justfunzhou-kan-di-wu-qi/)
 - [12，夏至](https://1900.live/12-xia-zhi/)
 - [🤣JUSTFUN周刊：第四期](https://1900.live/justfunzhou-kan-di-si-qi/)
 - [🤣JUSTFUN周刊：第三期](https://1900.live/justfunzhou-kan-di-san-qi/)
-- [11，芒种](https://1900.live/11-mang-chong/)
 <!-- BLOG-POST-LIST:END -->
