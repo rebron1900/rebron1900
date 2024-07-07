@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤣JUSTFUN周刊：第七期](https://1900.live/justfunzhou-kan-di-qi-qi/)
+- [13，小暑](https://1900.live/13-xiao-shu/)
 - [OpenSSH高危漏洞和升级教程](https://1900.live/opensshgao-wei-lou-dong-he-sheng-ji-jiao-cheng/)
 - [🤣JUSTFUN周刊：第六期](https://1900.live/justfunzhou-kan-di-liu-qi/)
 - [🤣JUSTFUN周刊：第五期](https://1900.live/justfunzhou-kan-di-wu-qi/)
-- [12，夏至](https://1900.live/12-xia-zhi/)
-- [🤣JUSTFUN周刊：第四期](https://1900.live/justfunzhou-kan-di-si-qi/)
 <!-- BLOG-POST-LIST:END -->
