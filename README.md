@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [晚风、夜色和腼腆的我](https://1900.live/wan-feng-ye-se-he-mian-tian-de-wo/)
 - [🤣JUSTFUN周刊：第七期](https://1900.live/justfunzhou-kan-di-qi-qi/)
 - [13，小暑](https://1900.live/13-xiao-shu/)
 - [OpenSSH高危漏洞和升级教程](https://1900.live/opensshgao-wei-lou-dong-he-sheng-ji-jiao-cheng/)
 - [🤣JUSTFUN周刊：第六期](https://1900.live/justfunzhou-kan-di-liu-qi/)
-- [🤣JUSTFUN周刊：第五期](https://1900.live/justfunzhou-kan-di-wu-qi/)
 <!-- BLOG-POST-LIST:END -->
