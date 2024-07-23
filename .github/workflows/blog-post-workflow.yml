@@ -15,4 +15,4 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://1900.live/rss"
+          feed_list: "https://1900.live/rss/"
