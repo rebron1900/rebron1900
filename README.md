@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤣JUSTFUN周刊：第九期](https://1900.live/justfunzhou-kan-di-jiu-qi/)
+- [14，大暑](https://1900.live/14-da-shu/)
 - [🤣JUSTFUN周刊：第八期](https://1900.live/justfunzhou-kan-di-ba-qi/)
 - [来自被进化所抛弃产物的重击](https://1900.live/lai-zi-bei-jin-hua-suo-pao-qi-chan-wu-de-zhong-ji/)
 - [晚风、夜色和腼腆的我](https://1900.live/wan-feng-ye-se-he-mian-tian-de-wo/)
-- [🤣JUSTFUN周刊：第七期](https://1900.live/justfunzhou-kan-di-qi-qi/)
-- [13，小暑](https://1900.live/13-xiao-shu/)
 <!-- BLOG-POST-LIST:END -->
