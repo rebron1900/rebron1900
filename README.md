@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤣JUSTFUN周刊：第十期](https://1900.live/justfunzhou-kan-di-shi-qi/)
 - [33岁的旅行](https://1900.live/33sui-de-lu-xing/)
 - [如何对抗自己？](https://1900.live/ru-he-dui-kang-zi-ji/)
 - [🤣JUSTFUN周刊：第九期](https://1900.live/justfunzhou-kan-di-jiu-qi/)
 - [14，大暑](https://1900.live/14-da-shu/)
-- [🤣JUSTFUN周刊：第八期](https://1900.live/justfunzhou-kan-di-ba-qi/)
 <!-- BLOG-POST-LIST:END -->
