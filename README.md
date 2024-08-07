@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [15，立秋](https://1900.live/15-li-qiu/)
 - [🤣JUSTFUN周刊：第十期](https://1900.live/justfunzhou-kan-di-shi-qi/)
 - [33岁的旅行](https://1900.live/33sui-de-lu-xing/)
 - [如何对抗自己？](https://1900.live/ru-he-dui-kang-zi-ji/)
 - [🤣JUSTFUN周刊：第九期](https://1900.live/justfunzhou-kan-di-jiu-qi/)
-- [14，大暑](https://1900.live/14-da-shu/)
 <!-- BLOG-POST-LIST:END -->
