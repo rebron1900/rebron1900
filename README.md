@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python中将GCJ02转换为WGS84坐标系](https://1900.live/pythonzhong-jiang-gcj02zhuan-huan-wei-wgs84zuo-biao-xi/)
 - [腼腆的我们](https://1900.live/mian-tian-de-wo-men/)
 - [🤣JUSTFUN周刊：第十一期](https://1900.live/justfunzhou-kan-di-shi-yi-qi/)
 - [重庆特种兵大作战两日游：2](https://1900.live/zhong-qing-te-chong-bing-da-zuo-zhan-liang-ri-you-2/)
 - [重庆特种兵大作战两日游：1](https://1900.live/zhong-qing-te-chong-bing-da-zuo-zhan-liang-ri-you-1/)
-- [15，立秋](https://1900.live/15-li-qiu/)
 <!-- BLOG-POST-LIST:END -->
