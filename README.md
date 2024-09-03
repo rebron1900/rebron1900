@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VPS备份脚本修复](https://1900.live/vpsbei-fen-jiao-ben-xiu-fu/)
 - [🤣JUSTFUN 周刊：第13期](https://1900.live/justfun-zhou-kan-di-13qi/)
 - [让文章内的Emoji也动起来。](https://1900.live/rang-wen-zhang-nei-de-emojiye-dong-qi-lai-2/)
 - [🤣JUSTFUN 周刊：第十二期](https://1900.live/justfun-zhou-kan-di-shi-er-qi/)
 - [馄饨、饺子和抄手](https://1900.live/hun-tun-jiao-zi-he-chao-shou/)
-- [16，处暑](https://1900.live/16-chu-shu/)
 <!-- BLOG-POST-LIST:END -->
