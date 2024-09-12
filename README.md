@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤣JUSTFUN 周刊：第14期](https://1900.live/justfun-zhou-kan-di-14qi/)
 - [你好Astro！](https://1900.live/ni-hao-astro/)
 - [17，白露](https://1900.live/17-bai-lu/)
 - [Obsidian 和 Windows 我都用什么插件和工具](https://1900.live/obsidian-wo-du-yong-shi-yao-cha-jian/)
 - [VPS备份脚本修复](https://1900.live/vpsbei-fen-jiao-ben-xiu-fu/)
-- [🤣JUSTFUN 周刊：第13期](https://1900.live/justfun-zhou-kan-di-13qi/)
 <!-- BLOG-POST-LIST:END -->
