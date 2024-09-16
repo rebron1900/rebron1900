@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [强心针](https://1900.live/hui-yi-shi-mei-hao-de/)
 - [两款CMS系统体验](https://1900.live/liang-kuan-cmsxi-tong-ti-yan/)
 - [如何快速解析HTML里的WikiLink？](https://1900.live/ru-he-kuai-su-jie-xi-htmlli-de-wikilink/)
 - [🤣JUSTFUN 周刊：第14期](https://1900.live/justfun-zhou-kan-di-14qi/)
 - [你好Astro！](https://1900.live/ni-hao-astro/)
-- [17，白露](https://1900.live/17-bai-lu/)
 <!-- BLOG-POST-LIST:END -->
