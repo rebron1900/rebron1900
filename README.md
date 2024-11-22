@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [22、小雪](https://1900.live/22-xiao-xue/)
 - [21、立冬](https://1900.live/21-shuang-jiang/)
 - [20、霜降](https://1900.live/20-shuang-jiang/)
 - [独立博客自省问卷15题](https://1900.live/du-li-bo-ke-zi-sheng-wen-juan-15ti/)
 - [19、寒露](https://1900.live/19-han-lu/)
-- [我的miniFlux主题](https://1900.live/wo-de-minifluxzhu-ti/)
 <!-- BLOG-POST-LIST:END -->
