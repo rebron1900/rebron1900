@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [川西笔架山，冬季雪山登山实操](https://1900.live/chuan-xi-bi-jia-shan-dong-ji-xue-shan-deng-shan-shi-cao/)
 - [我VPS上的Selfhost服务](https://1900.live/wo-vpsshang-de-selfhostfu-wu/)
 - [23、大雪](https://1900.live/23-da-xue/)
 - [22、小雪](https://1900.live/22-xiao-xue/)
 - [21、立冬](https://1900.live/21-shuang-jiang/)
-- [20、霜降](https://1900.live/20-shuang-jiang/)
 <!-- BLOG-POST-LIST:END -->
