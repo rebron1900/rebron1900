@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [24、冬至](https://1900.live/24-dong-zhi/)
 - [DIY明信片互换计划](https://1900.live/ming-xin-pian-hu-huan-ji-hua/)
 - [川西笔架山，冬季雪山登山实操](https://1900.live/chuan-xi-bi-jia-shan-dong-ji-xue-shan-deng-shan-shi-cao/)
 - [我VPS上的Selfhost服务](https://1900.live/wo-vpsshang-de-selfhostfu-wu/)
 - [23、大雪](https://1900.live/23-da-xue/)
-- [22、小雪](https://1900.live/22-xiao-xue/)
 <!-- BLOG-POST-LIST:END -->
