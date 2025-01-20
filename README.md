@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [252、大寒](https://1900.live/252-da-han/)
 - [用峨眉山的第一缕阳光给25年开个好头【完】](https://1900.live/yong-e-mei-shan-de-di-yi-lu-yang-guang-gei-25nian-kai-ge-hao-tou-wan/)
 - [251、小寒](https://1900.live/251-xiao-han/)
 - [用峨眉山的第一缕阳光给25年开个好头【一】](https://1900.live/yong-e-mei-shan-de-di-yi-lu-yang-guang-gei-25nian-kai-ge-hao-tou-yi/)
 - [24、冬至](https://1900.live/24-dong-zhi/)
-- [DIY明信片互换计划](https://1900.live/ming-xin-pian-hu-huan-ji-hua/)
 <!-- BLOG-POST-LIST:END -->
