@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [254、雨水](https://1900.live/254-yu-shui/)
 - [无题](https://1900.live/wu-ti-2/)
 - [253、立春](https://1900.live/253zhu-li-chun/)
 - [My App Defaults 2024](https://1900.live/my-app-defaults-2024/)
 - [252、大寒](https://1900.live/252-da-han/)
-- [用峨眉山的第一缕阳光给25年开个好头【完】](https://1900.live/yong-e-mei-shan-de-di-yi-lu-yang-guang-gei-25nian-kai-ge-hao-tou-wan/)
 <!-- BLOG-POST-LIST:END -->
