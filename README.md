@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [长毛象新通知推送TGBot](https://1900.live/chang-mao-xiang-xin-tong-zhi-tui-song-tgbot/)
 - [258、谷雨](https://1900.live/258-gu-yu/)
 - [宜宾李庄、僰王山一日游](https://1900.live/yi-bin-li-zhuang-bo-wang-shan-yi-ri-you/)
 - [Memos同步至Mastodon&lpar;长毛象&rpar;](https://1900.live/memostong-bu-zhi-mastodon-chang-mao-xiang/)
 - [257、清明](https://1900.live/257-qing-ming/)
-- [256、春分](https://1900.live/256-chun-fen/)
 <!-- BLOG-POST-LIST:END -->
