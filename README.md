@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [0元开88vip？？](https://1900.live/0yuan-kai-88vip/)
+- [260、小满](https://1900.live/260-xiao-man/)
 - [用户外活动填满五一：勒多曼因篇](https://1900.live/yong-hu-wai-huo-dong-tian-man-wu-yi-wa-wu-shan-pian-2/)
 - [259、立夏](https://1900.live/259zhu-li-xia/)
 - [用户外活动填满五一：瓦屋山篇](https://1900.live/yong-hu-wai-huo-dong-tian-man-wu-yi-wa-wu-shan-pian/)
-- [天然气热水器国补下单](https://1900.live/tian-ran-qi-re-shui-qi-guo-bu-xia-dan/)
 <!-- BLOG-POST-LIST:END -->
