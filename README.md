@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [给文章引入联邦宇宙嘟文互动记录](https://1900.live/fediverse-interactions-for-articles/)
 - [微软开源的更贴近Windows习惯的Linux命令行文本编辑器：edit](https://1900.live/wei-ruan-kai-yuan-de-geng-tie-jin-windowsxi-guan-de-linuxming-ling-xing-wen-ben-bian-ji-qi-edit/)
 - [0元开88vip？？](https://1900.live/0yuan-kai-88vip/)
 - [260、小满](https://1900.live/260-xiao-man/)
 - [用户外活动填满五一：勒多曼因篇](https://1900.live/yong-hu-wai-huo-dong-tian-man-wu-yi-wa-wu-shan-pian-2/)
-- [259、立夏](https://1900.live/259zhu-li-xia/)
 <!-- BLOG-POST-LIST:END -->
