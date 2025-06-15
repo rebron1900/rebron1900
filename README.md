@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [追晚霞的人](https://1900.live/zhui-wan-xia-de-ren/)
 - [261、芒种](https://1900.live/261-mang-chong/)
 - [文化人的游记](https://1900.live/wen-hua-ren-de-you-ji/)
 - [端午再游康定+看高山海子](https://1900.live/duan-wu-zai-you-kang-ding-kan-gao-shan-hai-zi/)
 - [给文章引入联邦宇宙嘟文互动记录](https://1900.live/fediverse-interactions-for-articles/)
-- [微软开源的更贴近Windows习惯的Linux命令行文本编辑器：edit](https://1900.live/wei-ruan-kai-yuan-de-geng-tie-jin-windowsxi-guan-de-linuxming-ling-xing-wen-ben-bian-ji-qi-edit/)
 <!-- BLOG-POST-LIST:END -->
