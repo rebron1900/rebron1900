@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [263、小暑](https://1900.live/263-xiao-shu/)
 - [给博客主题切换加个动画](https://1900.live/gei-bo-ke-zhu-ti-qie-huan-jia-ge-dong-hua/)
 - [262、夏至](https://1900.live/262-xia-zhi/)
 - [追晚霞的人](https://1900.live/zhui-wan-xia-de-ren/)
 - [261、芒种](https://1900.live/261-mang-chong/)
-- [文化人的游记](https://1900.live/wen-hua-ren-de-you-ji/)
 <!-- BLOG-POST-LIST:END -->
