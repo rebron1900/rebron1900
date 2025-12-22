@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [274、冬至](https://1900.live/274-dong-zhi/)
 - [Umami升级V3踩坑指南](https://1900.live/umamisheng-ji-v3cai-keng-zhi-nan/)
 - [273、大雪](https://1900.live/273-da-xue/)
 - [散装日常 2](https://1900.live/san-zhuang-ri-chang-2/)
 - [272、小雪](https://1900.live/272-xiao-xue/)
-- [271、立冬](https://1900.live/271-li-dong/)
 <!-- BLOG-POST-LIST:END -->
