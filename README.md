@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [湖南辣椒炒肉](https://1900.live/hu-nan-la-jiao-chao-rou/)
 - [My App Defaults 2025](https://1900.live/my-app-defaults-2025/)
 - [虎头蛇尾2025](https://1900.live/hu-tou-she-wei-2025/)
 - [274、冬至](https://1900.live/274-dong-zhi/)
 - [Umami升级V3踩坑指南](https://1900.live/umamisheng-ji-v3cai-keng-zhi-nan/)
-- [273、大雪](https://1900.live/273-da-xue/)
 <!-- BLOG-POST-LIST:END -->
