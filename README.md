@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [275、小寒](https://1900.live/275-xiao-han/)
 - [博客迁入Edgeone Pages](https://1900.live/bo-ke-qian-ru-edgeone-pages/)
 - [湖南辣椒炒肉](https://1900.live/hu-nan-la-jiao-chao-rou/)
 - [My App Defaults 2025](https://1900.live/my-app-defaults-2025/)
 - [虎头蛇尾2025](https://1900.live/hu-tou-she-wei-2025/)
-- [274、冬至](https://1900.live/274-dong-zhi/)
 <!-- BLOG-POST-LIST:END -->
