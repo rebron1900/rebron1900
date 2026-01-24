@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [有答案和没结果](https://1900.live/you-da-an-he-mei-jie-guo/)
 - [相信自己、相信神](https://1900.live/xiang-xin-zi-ji-xiang-xin-shen/)
 - [家人认知碰撞和曲线救国](https://1900.live/jia-ren-ren-zhi-peng-zhuang-he-qu-xian-jiu-guo/)
 - [276、大寒](https://1900.live/276-da-han/)
 - [我为什么写博客](https://1900.live/wo-wei-shi-yao-xie-bo-ke/)
-- [我的娱乐启蒙：影视篇](https://1900.live/wo-de-yu-le-qi-meng-ying-shi-pian/)
 <!-- BLOG-POST-LIST:END -->
