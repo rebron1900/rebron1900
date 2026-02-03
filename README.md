@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VPS选国内还是国外](https://1900.live/vpsxuan-guo-nei-huan-shi-guo-wai/)
 - [Frp打洞后内网Nginx反代](https://1900.live/frpda-dong-hou-nei-wang-nginxfan-dai/)
 - [我失业后能干啥](https://1900.live/what-can-i-do-after-losing-my-job/)
 - [我「想」这样教育孩子](https://1900.live/wo-xiang-zhe-yang-jiao-yu-hai-zi/)
 - [从记账漫想到金钱观](https://1900.live/cong-ji-zhang-man-xiang-dao-jin-qian-guan/)
-- [有答案和没结果](https://1900.live/you-da-an-he-mei-jie-guo/)
 <!-- BLOG-POST-LIST:END -->
