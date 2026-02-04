@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [出 3 块西数 14t 氦气盘](https://1900.live/chu-3-kuai-xi-shu-14t-hai-qi-pan/)
 - [277、立春](https://1900.live/277-li-chun/)
 - [VPS选国内还是国外](https://1900.live/vpsxuan-guo-nei-huan-shi-guo-wai/)
 - [Frp打洞后内网Nginx反代](https://1900.live/frpda-dong-hou-nei-wang-nginxfan-dai/)
 - [我失业后能干啥](https://1900.live/what-can-i-do-after-losing-my-job/)
-- [我「想」这样教育孩子](https://1900.live/wo-xiang-zhe-yang-jiao-yu-hai-zi/)
 <!-- BLOG-POST-LIST:END -->
