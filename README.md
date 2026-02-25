@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [278、雨水](https://1900.live/278-yu-shui/)
 - [大家新年快乐！](https://1900.live/da-jia-xin-nian-kuai-le/)
 - [我的小龙虾&lpar;OpenClaw&rpar;初体验](https://1900.live/wo-de-xiao-long-xia-openclaw-chu-ti-yan/)
 - [我居然从淘宝买了6000元的衣服](https://1900.live/wo-ju-ran-cong-tao-bao-mai-liao-6000yuan-de-yi-fu/)
 - [拉面师傅大脑和面团时间](https://1900.live/la-mian-shi-fu-da-nao-he-mian-tuan-shi-jian/)
-- [出 3 块西数 14t 氦气盘](https://1900.live/chu-3-kuai-xi-shu-14t-hai-qi-pan/)
 <!-- BLOG-POST-LIST:END -->
