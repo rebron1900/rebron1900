@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [血压忽高事件](https://1900.live/xie-ya-hu-gao-shi-jian/)
 - [还是成品NAS好+徒步散心](https://1900.live/huan-shi-cheng-pin-nashao-tu-bu-san-xin/)
 - [散装日常 3](https://1900.live/san-zhuang-ri-chang-3/)
 - [280、春分](https://1900.live/280-chun-fen/)
 - [279、惊蛰](https://1900.live/279-liang-zhi/)
-- [278、雨水](https://1900.live/278-yu-shui/)
 <!-- BLOG-POST-LIST:END -->
