@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [287、小暑](https://1900.live/287-xiao-shu/)
 - [286、夏至](https://1900.live/286-xia-zhi/)
 - [285、芒种](https://1900.live/285-mang-chong/)
 - [284、小满](https://1900.live/284-xiao-man/)
 - [283、立夏](https://1900.live/283-li-xia/)
-- [和H小姐的约会](https://1900.live/he-hxiao-jie-de-yue-hui/)
 <!-- BLOG-POST-LIST:END -->
